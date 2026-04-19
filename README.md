@@ -64,6 +64,6 @@ Data → Cleaning → EDA → Feature Engineering → Forecasting → Inventory 
 ---
 
 ## 👨‍💻 Author
-Student Data Science Portfolio Project
+kakade sakshi somnath
 
 ## 📁 Project Structure
